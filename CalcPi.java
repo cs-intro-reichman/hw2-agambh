@@ -13,7 +13,7 @@ public class CalcPi {
 			}
             count += 2;
 		}
-		System.out.println("pi according to java: 3.141592653589793");
-		System.out.println("pi, approximated: " + (sum*4));
+		System.out.println("pi according to Java: 3.141592653589793");
+		System.out.println("pi, approximated:     " + (sum*4));
 	}
 }
